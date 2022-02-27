@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sweet Cheese';
+    src: url('../font/SweetCheeseRegular.woff2') format('woff2'),
+    url('../font/SweetCheeseRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
